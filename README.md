@@ -29,6 +29,7 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
   <img alt="nodejs" src="https://img.shields.io/badge/-NodeJS-43853D?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="c++" src="https://img.shields.io/badge/-C++-21B500?style=flat-square&logo=C++&logoColor=white" />
     <img alt="c++" src="https://camo.githubusercontent.com/e250519d1c904dd1703b9edfca6b020f3fd0a70e1fcca999e70664842c5c7f4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3231423530303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" />
+    </p>
     
     
 ## 🪐 STATS :
