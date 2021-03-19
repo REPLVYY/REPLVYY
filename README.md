@@ -1,13 +1,15 @@
 ### Et bien le bonsoir à toi inconnu, je suis [REPLVΨΨ ](https://thomasbnt.dev) ! <img src="https://cdn.discordapp.com/emojis/815545507358310402.gif?v=1" width="25px">
 
-# 🌍 INTRODUCTION :
+[![discord](https://discord.com/api/guilds/776068293139628032/widget.png)](https://discord.gg/leclub)
+
+# 🌍 Introduction :
 <p>
 
 Je suis un jeune **développeur intermédiaire français**, je touche à tout et à n'importe quoi mais plus particulièrement aux gestions de serveurs, bots, de communauté, événements, réseaux sociaux et plus encore, j'essaye de jour en jour d'apprendre d'avantage et de m'améliorer encore plus ! <img src="https://cdn.discordapp.com/emojis/817145756699328512.gif?v=1?v=1" width="25px">
 
 Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrhNrdyt), j'aime tellement cette communauté !
 
-# 💸 PRESENTATIONS :
+# 💸 Présentations :
 <p>
 
 ➜ <img src="https://cdn.discordapp.com/emojis/819163207628357632.gif?v=1?v=1?v=1" width="25px"> Je travaille actuellement sur le projet [Prominence](https://discord.gg/ZqBrhNrdyt) !
@@ -16,7 +18,7 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
 \
 ➜ <img src="https://cdn.discordapp.com/emojis/777284269541163018.gif?v=1?v=1?v=1?v=1" width="25px"> Vous pouvez me contacter avec : [Discord](https://discord.com/users/654410003389874186) !
 
-## 💻 SKILLS & TOOLS :
+## 💻 Skills & Tools :
 
 <p>
 <code><img style="margin: 10px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" height="35" /></code> <code><img style="margin: 10px" src="https://raw.githubusercontent.com/coderjojo/coderjojo/master/img/github.svg" alt="Git" height="35" /></code> <code><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" height="35" /></code>
@@ -31,7 +33,7 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
     <img alt="c++" src="https://camo.githubusercontent.com/e250519d1c904dd1703b9edfca6b020f3fd0a70e1fcca999e70664842c5c7f4c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d507974686f6e2d3231423530303f7374796c653d666c61742d737175617265266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465" />
 </p>
     
-## 🪐 STATS :
+## 🪐 Statistiques :
 <p>
 
    
