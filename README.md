@@ -1,6 +1,7 @@
 ### Et bien le bonsoir à toi inconnu, je suis [REPLVΨΨ ](https://thomasbnt.dev) ! <img src="https://cdn.discordapp.com/emojis/815545507358310402.gif?v=1" width="25px">
 
-<iframe src="https://discord.com/widget?id=776068293139628032&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<p>
+<img src="https://cdn.discordapp.com/attachments/821278110410080270/822501516068782150/NotReplayy.jpg" width="512">
 
 # 🌍 Introduction :
 <p>
