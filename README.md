@@ -35,15 +35,11 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
 <p>
 
    
-  <img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
-</p>
 
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=REPLAYY&show_icons=true&hide_border=true" />
+\
+<img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
 
-## Le Club 🍸 :
-<p>
-<img src="https://cdn.discordapp.com/attachments/818128960809992205/820373615430074368/leclub_2.jpg" width="512">
 
-  
-
+</p>
 
