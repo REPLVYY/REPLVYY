@@ -1,6 +1,6 @@
 ### Et bien le bonsoir à toi inconnu, je suis [REPLVΨΨ ](https://thomasbnt.dev) ! <img src="https://cdn.discordapp.com/emojis/815545507358310402.gif?v=1" width="25px">
 
-[![discord](https://discord.com/api/guilds/776068293139628032/widget.png)](https://discord.gg/leclub)
+[![discord](https://discord.com/api/guilds/776068293139628032/widget.json)](https://discord.gg/leclub)
 
 # 🌍 Introduction :
 <p>
