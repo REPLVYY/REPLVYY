@@ -2,6 +2,7 @@
 
 <p>
 <img src="https://cdn.discordapp.com/attachments/821278110410080270/822501516068782150/NotReplayy.jpg" width="512">
+</p>
 
 # 🌍 Introduction :
 <p>
