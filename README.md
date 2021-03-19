@@ -38,10 +38,10 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
 <p>
 
    
-
+<p>
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=REPLAYY&show_icons=true&hide_border=true" />
-\
-<img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
-
-
 </p>
+<p>
+<img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
+</p>
+
