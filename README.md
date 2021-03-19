@@ -42,4 +42,3 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
 
 
 </p>
-
