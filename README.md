@@ -43,6 +43,6 @@ Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrh
 <img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=REPLVYY&show_icons=true&hide_border=true" />
 </p>
 <p>
-<img src="https://profile-counter.glitch.me/Derpinou/count.svg" />
+<img src="https://profile-counter.glitch.me/REPLVYY/count.svg" />
 </p>
 
