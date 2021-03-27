@@ -9,7 +9,7 @@
 
 Je suis un jeune **développeur intermédiaire français**, je touche à tout et à n'importe quoi mais plus particulièrement aux gestions de serveurs, bots, de communauté, événements, réseaux sociaux et plus encore, j'essaye de jour en jour d'apprendre d'avantage et de m'améliorer encore plus ! <img src="https://cdn.discordapp.com/emojis/817145756699328512.gif?v=1?v=1" width="25px">
 
-Je suis principalement sur le serveur discord [LE CLUB](https://discord.gg/ZqBrhNrdyt), j'aime tellement cette communauté !
+Je suis principalement sur le serveur discord [Fantasy](https://discord.gg/ZqBrhNrdyt), j'aime tellement cette communauté !
 
 # 💸 Présentations :
 <p>
